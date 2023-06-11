@@ -28,6 +28,11 @@ Here are the list of concepts that has been covered in modern cpp:
 23. Standard Attributes ([[noreturn]], [[deprecated]], [[carries_dependency]], etc.)
 24. Thread-Local Storage (thread_local keyword)
 25. Atomic Operations (std::atomic, std::atomic_flag)
+26. final keyword
+27. override keyword
+28. to_string()
+29. type_alias
+
 
 Under new standard library here are the topics that has been covered:
 
