@@ -4,7 +4,7 @@ using namespace std;
 
 int sum(initializer_list<int> list)
 {
-    int total= 0;
+    int total {0}; //initailize variable now like this
     for(const auto& i:list )
     {
         total+=i;
