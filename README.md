@@ -32,6 +32,18 @@ Here are the list of concepts that has been covered in modern cpp:
 27. override keyword
 28. to_string()
 29. type_alias
+30. variant
+31. std::any any_cast
+32. digit seperation
+33. binary literal
+34. filesystem
+35. nested namespace
+36. structured binding
+37. defining variable inside if and switch 
+38. mutable keyword
+39. constexpr use inside lambda fucntion
+40. static assert
+
 
 
 Under new standard library here are the topics that has been covered:
