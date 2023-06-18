@@ -1,3 +1,4 @@
+// program : auto can store any type of data type 
 #include <iostream>
 #include <vector>
 

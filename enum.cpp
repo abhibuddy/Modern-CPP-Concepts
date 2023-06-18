@@ -1,7 +1,7 @@
 #include <iostream>
-
 using namespace std;
 
+//enum class prevents from anytype of name collision 
 enum class Color 
 {
 Red,Green,Blue

@@ -1,6 +1,7 @@
 #include <iostream>
 #include <set>
 /*
+various functions that set provides : 
 *insert(val)
 *size()
 *empty()
@@ -12,13 +13,14 @@
 * itr -> begin() end()
 */
 int main()
-{   std::set<int> s;
+{   // adding value in set
+    std::set<int> s;
     s.insert(10);
     s.insert(15);
     s.insert(20);
     s.insert(30);
-    std::cout<<"size : "<<s.size()<<std::endl;
-    std::cout<<"count of 20 : "<<s.count(20)<<std::endl;
+    std::cout<<"size : "<<s.size()<<std::endl; // size of set
+    std::cout<<"count of 20 : "<<s.count(20)<<std::endl; //count of 20 in set
     s.erase(20);
     std::cout<<"count of 20 after erase : "<<s.count(20)<<std::endl;
     if(s.find(30)==s.end())

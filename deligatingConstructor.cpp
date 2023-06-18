@@ -5,8 +5,8 @@ class Work
 {
 public:
 int money;
-Work(int money):money(money){};
-Work():Work(100){};
+Work(int money):money(money){}; // constructor with parameter
+Work():Work(100){};  // constructor using above method 
 };
 int main()
 {

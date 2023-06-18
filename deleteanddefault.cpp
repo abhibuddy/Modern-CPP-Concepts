@@ -3,8 +3,8 @@ using namespace std;
 
 class Myclass{
     public:
-    Myclass()=default;
-    Myclass(const Myclass&)=delete;
+    Myclass()=default; //default constructor 
+    Myclass(const Myclass&)=delete; // deleted copy constructor
     void display()
     {
         std::cout<<"fucntion inside class was called "<<std::endl;

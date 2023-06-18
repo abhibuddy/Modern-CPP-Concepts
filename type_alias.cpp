@@ -1,3 +1,6 @@
+/*
+using can be used to give an alias to a datatype
+*/
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int sum(initializer_list<int> list)
@@ -13,6 +12,7 @@ int sum(initializer_list<int> list)
 }
 int main()
 {
+    //this is a std::initializer_list<int>
     auto list = {10,20,30,50};
     std::cout<<sum(list);
     return 0;

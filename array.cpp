@@ -1,3 +1,6 @@
+/*
+program : array container takes <datatype,count> and other operations are same as vector
+*/
 #include <iostream>
 #include <array>
 using namespace std;

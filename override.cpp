@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 class A
 {
@@ -9,6 +8,7 @@ virtual void fun(){}
 
 class B:public A
 {
+// overrride keywords to be used when overriding methods 
 void fun() override
 {
 }

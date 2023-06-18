@@ -15,6 +15,7 @@ struct mlt
 };
 int main()
 {
+    //std::function<return type (parameters type)> v_name = function to which it is pionting
     std::function<int(int,int)> funct1 = add;
     std::function<int(int,int)> funct2 = mlt();
 

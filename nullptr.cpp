@@ -1,4 +1,6 @@
-/*nullptr*/
+/*
+program : nullptr can be used for pointer 
+*/
 #include<iostream>
 using namespace std;
 //void fun(int){}; // not convertable to int except bool

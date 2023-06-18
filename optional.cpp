@@ -9,7 +9,8 @@ if(a!=0)
     return b/a;
 }
 else {
-    return nullopt;
+    return {};
+    //return nullopt; // {} or nullopt can be used for unwanted case 
 }
 
 }

@@ -13,7 +13,7 @@ void processNumbers(const std::vector<int>& numbers, const std::function<void(in
     {
         for(const auto& num:numbers)
         {
-            callback(num);
+            callback(num); // this function can be latter used in the function
         }       
     }
 int main()
