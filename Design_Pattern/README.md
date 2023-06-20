@@ -1,6 +1,6 @@
-# Design Pattern
+# Design Patterns
 
-#### various categories of design patterns are : 
+**various categories of design patterns are** : 
 
 ### Creational Patterns:
 * Singleton
