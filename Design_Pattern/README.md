@@ -3,20 +3,20 @@
 **various categories of design patterns are** : 
 
 ### Creational Patterns:
-* Singleton - ([x])
-* Factory Method - ([x])
+- [x] Singleton
+- [x] Factory Method
 * Abstract Factory
-* Builder - [x]
+- [x] Builder 
 * Prototype
 
 ### Structural Patterns:
-* Adapter - [x]
+- [x] Adapter
 * Bridge
-* Composite - [x]
-* Decorator - [x]
+- [x] Composite
+- [x] Decorator
 * Facade
 * Flyweight
-* Proxy - [x]
+- [x] Proxy
 
 ### Behavioral Patterns:
 * Chain of Responsibility
@@ -25,8 +25,8 @@
 * Iterator
 * Mediator
 * Memento
-* Observer - [x]
+- [x] Observer
 * State
-* Strategy - [x]
-* Template Method - [x]
+- [x] Strategy
+- [x] Template Method
 * Visitor
