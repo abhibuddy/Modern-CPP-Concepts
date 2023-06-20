@@ -3,8 +3,8 @@
 **various categories of design patterns are** : 
 
 ### Creational Patterns:
-* Singleton - [x]
-* Factory Method - [x]
+* Singleton - ([x])
+* Factory Method - ([x])
 * Abstract Factory
 * Builder - [x]
 * Prototype
