@@ -1,3 +1,7 @@
+/**
+ * C++ 11 concept
+ * Program : range based for loop program for different containers
+*/
 #include <iostream>
 #include <vector>
 #include <map>
@@ -9,7 +13,7 @@ int main() {
     std::map<std::string, int> studentScores = {{"Alice", 85}, {"Bob", 92}, {"Charlie", 78}};
     int arr[] = {1, 2, 3, 4, 5};
 
-    // Iterate over each element in the array using range-based for loop
+    // Iterate over each element in the array 
     for (int element : arr) {
         std::cout << element << " ";
     }
@@ -28,7 +32,8 @@ int main() {
         std::cout << entry.first << ": " << entry.second << " ";
     }
     std::cout << std::endl;
-    // Iterate over each character in the string using range-based for loop
+    
+    // Iterate over each character in the string 
     for (char c : str) {
         std::cout << c << " ";
     }

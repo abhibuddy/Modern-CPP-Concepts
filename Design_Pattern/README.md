@@ -5,7 +5,7 @@
 ### Creational Patterns:
 - [x] Singleton
 - [x] Factory Method
-* Abstract Factory
+* [x] Abstract Factory
 - [x] Builder 
 * Prototype
 
@@ -22,7 +22,7 @@
 * Chain of Responsibility
 * Command
 * Interpreter
-* Iterator
+* [x] Iterator
 * Mediator
 * Memento
 - [x] Observer
