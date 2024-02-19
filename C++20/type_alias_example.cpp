@@ -1,3 +1,6 @@
+/**
+ * type alias can be achieved by "using" or "typedef"
+*/
 #include <iostream>
 #include <vector>
 using namespace std;

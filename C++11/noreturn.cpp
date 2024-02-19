@@ -1,3 +1,7 @@
+/**
+ * C++ 11 concept
+ * Program: this keyword/tag ensures that the method will not return anything
+*/
 #include <iostream>
 using namespace std;
 //this function will not return in any circumstances 

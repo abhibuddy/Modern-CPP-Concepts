@@ -1,3 +1,7 @@
+/**
+ * c++20 concept
+ * "final" can be both class and method signifies class or method can't be further inherited 
+*/
 #include <iostream>
 
 using namespace std;

@@ -1,3 +1,8 @@
+/**
+ * c++20 concept 
+ * same like a variable we can also use 
+ * std::function<returntype(parameter type)> as a type of function variable
+*/
 #include <iostream>
 #include <functional>
 

@@ -1,6 +1,6 @@
-/*
-before the c++11 version we can't use >> other than that for cin 
-as it was leading to confusion
+/* C++11 concept
+*before the c++11 version we can't use >> other than that for cin 
+*as it was leading to confusion
 */
 #include <iostream>
 #include <vector>

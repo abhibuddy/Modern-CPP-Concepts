@@ -1,6 +1,6 @@
 # Modern-CPP-Concepts
-### This repo contains all the major concepts of modern C++ 11/14/17.It has 100 Programs on modern cpp concepts.
-##### Last Updated : 14 Jan 2024
+### This repo contains all the major concepts of modern C++ 11/14/17.It has 100+ Programs on modern cpp concepts.
+##### Last Updated : 19 Feb 2024
 **Here are the list of concepts that has been covered in modern cpp concepts:**
 
 1. Lambda Expressions

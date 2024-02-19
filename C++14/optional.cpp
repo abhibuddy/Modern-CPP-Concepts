@@ -1,3 +1,9 @@
+/**
+ * c++14 concept 
+ * wrap return type with std::optional<returntype>
+ * {} or nullopt can be used for unwanted return type
+ * has_value() or .value() can be used to check or fetch the value 
+*/
 #include <iostream>
 #include <optional>
 using namespace std;

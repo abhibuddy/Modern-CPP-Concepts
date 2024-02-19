@@ -1,3 +1,10 @@
+/**
+ * variant is a c++17 concept
+ * the std::variant<various types that value can take>
+ * .index() --> to get the type the value is holding
+ * std::get<type>(variable) to fetch the value from variable
+ * 
+*/
 #include <iostream>
 #include <variant>
 using namespace std;

@@ -1,3 +1,7 @@
+/**
+ * C++11 concept
+ * Program: noexcept keyword guarantee that the given function will not throw error in runtime env
+*/
 #include <iostream>
 
 using namespace std;
@@ -6,7 +10,7 @@ void funct1() noexcept
 {
     //function 1 not throwing any error
 }
-void funct2() noexcept(noexcept(funct1()))
+void funct2() noexcept(noexcept(funct1())) // ==> noexcept(true) ===> noexcept
 {
     //function 2 not throwing any error
 }

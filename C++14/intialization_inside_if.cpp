@@ -1,3 +1,7 @@
+/**
+ * C++14 concept
+ * initailize the variables inside if and switch statement (scope limited)
+*/
 #include <iostream>
 #include <set>
 using namespace std;

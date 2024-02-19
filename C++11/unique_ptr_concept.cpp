@@ -1,6 +1,6 @@
 /**
- * C++ concept
- * Program : Unique Pointer
+ * C++ 11 concept
+ * Program : Unique Pointer use of release or setting to nullptr to release the unique ptr
 */
 #include <iostream>
 #include <memory> // for unique_ptr

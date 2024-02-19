@@ -1,5 +1,6 @@
 /*
-program : nullptr can be used for pointer 
+*C++11 concept
+*program : nullptr can be used for pointer 
 */
 #include<iostream>
 using namespace std;

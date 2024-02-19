@@ -1,6 +1,6 @@
 /**
- * C++ concept
- * Program : use of shared pointer
+ * C++ 11 concept
+ * Program : use of shared pointer concepts like std::shared_ptr<classname>/std::make_shared<class>/.use_count()/.reset()
 */
 #include <iostream>
 #include <memory> //for shared_ptr

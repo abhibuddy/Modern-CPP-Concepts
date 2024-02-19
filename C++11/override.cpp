@@ -1,3 +1,7 @@
+/**
+ * C++11 concept
+ * Override keyword shows the method has been overriden in child class
+*/
 #include <iostream>
 using namespace std;
 class A

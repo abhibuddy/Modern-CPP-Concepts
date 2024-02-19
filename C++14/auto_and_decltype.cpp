@@ -1,5 +1,6 @@
 /*
-Program : decltype helps to get the type of any varible  
+*c++14 concept
+*Program : decltype helps to get the type of any varible  
 */
 #include <iostream>
 
