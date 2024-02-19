@@ -1,3 +1,7 @@
+/**
+ * C++ concept
+ * Program : Unique Pointer
+*/
 #include <iostream>
 #include <memory> // for unique_ptr
 using namespace std;
