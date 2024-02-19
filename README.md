@@ -1,6 +1,7 @@
 # Modern-CPP-Concepts
 ### This repo contains all the major concepts of modern C++ 11/14/17.It has 100+ Programs on modern cpp concepts.
 ##### Last Updated : 19 Feb 2024
+
 **Here are the list of concepts that has been covered in modern cpp concepts:**
 
 1. Lambda Expressions
@@ -65,45 +66,8 @@ Under new standard library here are the topics that has been covered:
 14. std::condition_variable
 15. std::future
 
---------------------------C++ 11 New Headers-------------------------------------
-1. array*
-2. atomic
-3. chrono*
-4. condition_variable
-5. forward_list
-6. future
-7. initializer_list*
-8. mutex
-9. random
-10. ratio
-11. regrex
-12. system_error
-13. thread*
-14. tuple*
-15. unordered_map
-16. unordered_set
-17. auto*
---------------------------C++ 11 New Concepts-------------------------------------
-1. std::move
-2. std::forward
-3. std::thread*
-4. std::to_string*
-5. smart pointer
-6. std::chrono*
-7. tuples*
-8. std::tie*
-9. std::array*
-10. unordered container
-11. std::make_shared
-12. std::ref
-13. std::async
-14. std::begin/end
---------------------------C++ 11 New Concepts-------------------------------------
---------------------------C++ 14 New Concepts-------------------------------------
---------------------------C++ 17 New Concepts-------------------------------------
---------------------------C++ 20 New Concepts-------------------------------------
+and various other concepts are also included. Explore ... 
 
-----------------------------------------------------------------------------------
 Important Reference : https://github.com/AnthonyCalandra/modern-cpp-features/tree/master
 
 
