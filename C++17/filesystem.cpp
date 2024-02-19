@@ -1,3 +1,12 @@
+/**
+ * c++17 concept
+ * to get the current path "std::filesystem::current_path()"
+ * to check if the given path exists or not "exists()"
+ * to create the directory " create_directory(path)"
+ * to check using "std::filesystem::directory_iterator(path)" all the items present in a direcory is 
+ * is_regular_file() or not
+ * is_directory() or not
+*/
 #include <iostream>
 #include <filesystem>
 namespace fs = std::filesystem; 

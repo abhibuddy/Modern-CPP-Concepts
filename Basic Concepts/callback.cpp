@@ -8,8 +8,8 @@ these methods are called callback methods
 #include <functional>
 
 using namespace std;
-
-void processNumbers(const std::vector<int>& numbers, const std::function<void(int)>& callback)
+void processNumbers(const std::vector<int>& numbers,void (*callback)(int))
+//void processNumbers(const std::vector<int>& numbers, const std::function<void(int)>& callback)
     {
         for(const auto& num:numbers)
         {

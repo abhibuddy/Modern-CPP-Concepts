@@ -1,3 +1,7 @@
+/**
+ * C++ 11 concept 
+ * thread safe use of a variable to prevent it in case of race condition
+*/
 #include <iostream>
 #include <thread>
 #include <atomic>

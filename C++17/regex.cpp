@@ -1,5 +1,11 @@
+/**
+ * c++17 concept
+ * <regex> liberary
+*/
 #include <iostream>
-#include <regex> //regex_search regex_match
+#include <regex> 
+//regex_search(text,std::smatch varibale,regex) ->smach variable.str() to fetch the string 
+//regex_match(text,regex) -> Just for comparison i.e. boolean
 using namespace std;
 
 int main()
