@@ -34,7 +34,19 @@ void inodertraversal(std::shared_ptr<treenode>& root)
         inodertraversal(root->right);
     }
 }
-
+int maxval(std::shared_ptr<treenode> root)
+{
+    if(root==nullptr)
+    {
+        std::cout<<"tree is empty"<<std::endl;
+        return -1;
+    }
+    while(root->right!= nullptr)
+    {
+        root = root->right;
+    }
+    return root->data;
+}
 int main()
 {
     std::shared_ptr<treenode> root = nullptr;
@@ -48,6 +60,6 @@ int main()
 
     std::cout<<"In order traversal of tree :"<<std::endl;
     inodertraversal(root);
-    std::cout<<std::endl;
+    std::cout<<"maximum value in tree : "<<maxval(root)<<std::endl;
     return 0;
 }
