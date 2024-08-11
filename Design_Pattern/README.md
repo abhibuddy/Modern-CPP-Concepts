@@ -2,31 +2,31 @@
 
 **various categories of design patterns are** : 
 
-### Creational Patterns:
-- [x] Singleton
-- [x] Factory Method
-* [x] Abstract Factory
-- [x] Builder 
-* Prototype
+### Creational Patterns: Class and Object creation pattern.
+* [x] Singleton : a class whose only instance can exist
+* [x] Factory Method : creates an instance of several derived class
+* [] Abstract Factory : creates an instance of several families of classes
+* [x] Builder : seperated object construction from it's representation 
+* [x] Prototype : a fully initialized instance to be copied and cloned.
 
-### Structural Patterns:
-- [x] Adapter
-* Bridge
-- [x] Composite
-- [x] Decorator
-* Facade
-* Flyweight
-- [x] Proxy
+### Structural Patterns: Class and Object composition
+* [] Adapter
+* [] Bridge
+* [] Composite
+* [] Decorator
+* [] Facade
+* [] Flyweight
+* [] Proxy
 
-### Behavioral Patterns:
-* Chain of Responsibility
-* Command
-* Interpreter
-* [x] Iterator
-* Mediator
-* Memento
-- [x] Observer
-* State
-- [x] Strategy
-- [x] Template Method
-* Visitor
+### Behavioral Patterns: Class and Object communication
+* [] Chain of Responsibility
+* [] Command
+* [] Interpreter
+* [] Iterator
+* [] Mediator
+* [] Memento
+* [] Observer
+* [] State
+* [] Strategy
+* [] Template Method
+* [] Visitor

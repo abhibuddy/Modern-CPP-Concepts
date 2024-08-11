@@ -34,6 +34,7 @@ void inodertraversal(std::shared_ptr<treenode>& root)
         inodertraversal(root->right);
     }
 }
+// this is true for BST 
 int maxval(std::shared_ptr<treenode> root)
 {
     if(root==nullptr)

@@ -16,14 +16,15 @@ static Toy* getInstance()
 }
 void play()
 {
-
+    std::cout<<"playing with the toy ..."<<std::endl;
 }
 
 private:
-static Toy* instance;
-Toy(){}
+static Toy* instance; //object made static
+Toy(){} // costructor moved to private
 };
 Toy* Toy::instance = nullptr;
+
 int main()
 {
     Toy* myToy = Toy::getInstance();
